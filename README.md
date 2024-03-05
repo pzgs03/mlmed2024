@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Nguyễn Hà Phương
+* ID: BI12-359
 * Group ID: *Your Group ID here*
 
